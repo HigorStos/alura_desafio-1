@@ -7,11 +7,18 @@
 </p>
 
 <h2 align="center">
-  <a href="https://alura-desafio-1.vercel.app/">
+  <a href="https://alura-desafio-1.vercel.app/" target="_blank">
     <img src="./.github/preview.png" />
     https://alura-desafio-1.vercel.app/
   </a>
 </h2>
+
+## 📷 Deploy
+
+<a href="https://alura-desafio-1.vercel.app/" target="_blank">
+ <img src=".github/preview.png" width="100%" style="border-radius: 6px" />
+</a>
+<h3>Link: https://alura-desafio-1.vercel.app/</h3>
 
 ### 🧭 Rodando a aplicação
 
