@@ -16,7 +16,7 @@
 ## 📷 Deploy
 
 <a href="https://alura-desafio-1.vercel.app/" target="_blank">
- <img src=".github/preview.png" width="100%" style="border-radius: 6px" />
+ <img src="preview.png" width="100%" style="border-radius: 6px" />
 </a>
 <h3>Link: https://alura-desafio-1.vercel.app/</h3>
 
