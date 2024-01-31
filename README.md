@@ -6,19 +6,12 @@
   Desafio 1 - Do Figma ao HTML e CSS
 </p>
 
-<h2 align="center">
-  <a href="https://alura-desafio-1.vercel.app/" target="_blank">
-    <img src="./.github/preview.png" />
-    https://alura-desafio-1.vercel.app/
-  </a>
-</h2>
-
 ## 📷 Deploy
 
+<h3>Link: https://alura-desafio-1.vercel.app/</h3>
 <a href="https://alura-desafio-1.vercel.app/" target="_blank">
  <img src="preview.png" width="100%" style="border-radius: 6px" />
 </a>
-<h3>Link: https://alura-desafio-1.vercel.app/</h3>
 
 ### 🧭 Rodando a aplicação
 
